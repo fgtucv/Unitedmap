@@ -16,14 +16,14 @@ body {
 
 .main-section__img-1 {
   position: absolute;
-  left: 763px;
-  top: 590px;
+  left: 842px;
+  top: 518px;
 }
 
 .main-section__img-3 {
   position: absolute;
-  left: 928px;
-  top: 1234px;
+  left: 1300px;
+  top: 1130px;
 }
 
 .main-section__img-4 {
@@ -40,14 +40,20 @@ body {
 
 .main-section__img-6 {
   position: absolute;
+  right: 0;
+  top: 1170px;
 }
 
 .main-section__img-7 {
   position: absolute;
+  top: 30px;
+  left: 30px;
 }
 
 .main-section__img-8 {
   position: absolute;
+  bottom: -545px;
+  left: 10px;
 }
 
 .main-section__form {
@@ -112,4 +118,11 @@ body {
   font-size: 18px;
   line-height: 18px;
   color: #FFFFFF;
+}
+
+.footer-section {
+  width: 1440px;
+  height: 200px;
+  background: #FAFAFA;
+  border-top: 1px solid #D8D8D8;
 }/*# sourceMappingURL=main.css.map */
