@@ -1,6 +1,33 @@
 .footer-section {
-    width: 1440px;
-    height: 200px;
     background: #FAFAFA;
     border-top: 1px solid #D8D8D8;
+    padding-top: 79px;
+    padding-left: 343px;
+    position: relative;
+    padding-bottom: 105px;
+}
+
+.footer-section-list {
+    display: flex;
+    width: 126.76px;
+    height: 16.09px;
+    gap: 25px;
+}
+
+.footer-section__img-6 {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.footer-section__img-8 {
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+}
+
+.footer-section__img-3 {
+    top: 0;
+    right: 130px;
+    position: absolute;
 }
